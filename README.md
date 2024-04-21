@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">A software engineer living in Portugal</h3>
 
-<!--
-**danyfernandes/danyfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My skills 📜
 
-Here are some ideas to get you started:
+### Web technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- TailwindCSS
+- Blade Templating Engine
+- NodeJS
+- PHP
+- Laravel
+- MySQL
+
+### Application Development
+
+- C/C++
+- Qt
+- Python
+- Java
+
+## Learning 📚
+
+- PHPUnit
+- Django
+- Java Spring Boot
+
+## Let's Connect 💬
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+- 📧 Email: [fernandesda4@gmail.com](mailto:fernandesda4@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/daniel-de-carvalho-fernandes](https://www.linkedin.com/in/daniel-de-carvalho-fernandes/)
